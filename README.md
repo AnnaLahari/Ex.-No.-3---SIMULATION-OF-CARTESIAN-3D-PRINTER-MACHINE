@@ -47,7 +47,7 @@
 ###   2.	Move the y-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the y-axis assembly.
 ###   3.	Move the z-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z-axis assembly.
 
-## OUTPUT:
+### OUTPUT:
 ## X-axis assembly:
 ![image](https://github.com/AnnaLahari/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/149365425/a022a080-c607-4e8e-9698-b168e84d8da9)
 # Smooth Rod :
