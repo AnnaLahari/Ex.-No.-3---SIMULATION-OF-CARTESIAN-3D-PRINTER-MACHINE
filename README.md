@@ -120,7 +120,10 @@ It holds spool.
 a spool refers to a roll of filament that is used as the printing material for the 3D printer.
 
 
-## Output:
+### Output:
+## Playing with axis:
+![image](https://github.com/AnnaLahari/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/149365425/ae29c2db-4a4a-4148-a19c-63bf7e33df1c)
+
 
 ### Name: A.Lahari
 ### Register Number: 23002931
